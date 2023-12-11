@@ -1,4 +1,4 @@
-# import time
+# import time and time
 import json
 import random
 import requests
